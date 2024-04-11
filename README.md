@@ -1,5 +1,7 @@
 # Heterogeneous Virtual Growth Algorithm
 
+[![DOI](https://zenodo.org/badge/785450642.svg)](https://zenodo.org/doi/10.5281/zenodo.10963129)
+
 This program generates patterns with seamlessly connected building blocks. 
 
 The program generalizes the [virtual growth scheme](https://www.science.org/doi/full/10.1126/science.abn1459) to account for 
