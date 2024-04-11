@@ -60,7 +60,7 @@ python3 scripts/generate_mesh_script.py
 
 Evaluate the homogenized elasticity matrices:
 ```
-python3 scripts/generate_mesh_script.py
+python3 scripts/homogenize_script.py
 ```
 
 ## Authors, sponsors, and citation
