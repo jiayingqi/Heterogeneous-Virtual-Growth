@@ -1,0 +1,9 @@
+# To install xvfb for plotting:
+# apt-get -qq update && apt-get -y install libgl1-mesa-dev xvfb
+
+# To install the required Python packages:
+# pip3 install -r requirements.txt
+
+pytz
+tqdm
+pyvista
